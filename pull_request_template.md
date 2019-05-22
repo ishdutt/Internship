@@ -1,4 +1,4 @@
-- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
+-- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
 - [ ] Name as heading
 - [ ] Description should have
      - [ ] Name
