@@ -1,4 +1,4 @@
-- [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
+- [ ] file interns.md, format Name [\github-ishdutt\]\(github-ishdutturl\)
 - [ ] Ishdutt Trivedi
 - [ ] Description should have
      - [ ] Django Internship
