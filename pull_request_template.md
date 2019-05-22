@@ -1,11 +1,11 @@
 - [ ] file interns.md, format Name [\github-username\]\(github-username-url\)
-- [ ] Name as heading
+- [ ] Ishdutt Trivedi
 - [ ] Description should have
-     - [ ] Name
-     - [ ] Mail id
-     - [ ] Tickets closed
+     - [ ] Django Internship
+     - [ ] trivediishdutt@gmail.com
+     - [ ] Tickets closed:Not Started Yet
      - [ ] PRs created
-     - [ ] Timezone
+     - [ ] IST
      - [ ] Independent side projects work/writeup
      - [ ] Timeline doc
      - [ ] Channel availability (Calendly url)
